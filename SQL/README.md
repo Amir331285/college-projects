@@ -161,10 +161,10 @@ You can use having to filter the table after group so you can use Functions like
 
 
    <div align="center">
-      <img src="https://github.com/mahdijz5/college-projects/blob/main/SQL/Pasted%20image%2020260613224720.png">
+      <img src="https://github.com/mahdijz5/college-projects/blob/main/SQL/Pasted%20image%2020260613225929.png">
     </div>
-
-# 9. Operators
+	
+ # 9. Operators
 
 | Operator        | Logic                                              | Includes Duplicates? |
 | --------------- | -------------------------------------------------- | -------------------- |
